@@ -1,4 +1,5 @@
-require 'spec_helper'
+#require 'spec_helper'
+require 'rspec'
 require_relative '../lib/race'
 
 describe RaceBet::Race do
